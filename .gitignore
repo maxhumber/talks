@@ -1,0 +1,6 @@
+.env
+00-*
+__archive__
+__pycache__
+output.csv
+tagged_locations.csv
