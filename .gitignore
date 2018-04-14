@@ -1,6 +1,8 @@
 .env
-00-*
 __archive__
 __pycache__
-output.csv
-tagged_locations.csv
+anacondacon2018/output.csv
+anacondacon2018/tagged_locations.csv
+anacondacon2018/*.key
+anacondacon2018/*.pdf
+anacondacon2018/00-*
