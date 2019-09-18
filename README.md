@@ -1,16 +1,19 @@
-## Upcoming
+#### Selected Talks
 
-| Title  | Event | Date |
-|---|---|---|
-| DATAFY ALL THE THINGS | [ODSC Boston](https://odsc.com/boston) | 1-4 May 2018 |
+| Title                                  | Event                                               | Date       |
+| -------------------------------------- | --------------------------------------------------- | ---------- |
+| Data Driven Deviations                 | [Big Data Toronto](http://www.bigdata-toronto.com/) | 2017-06-20 |
+| R • Patsy • Python                     | [PyData Berlin](https://pydata.org/berlin2017/)     | 2017-07-01 |
+| How to Make Money with rvest and purrr | [useR!](https://user2017.brussels/)                 | 2017-07-06 |
+| Visualizing Models                     | [ODSC London](https://www.odsc.com/london)          | 2017-10-13 |
+| Personal Pynance                       | [Pycon Colmobia](https://www.pycon.co/)             | 2018-02-10 |
+| Data Engineering for Data Scientists   | [AnacondaCON](https://anacondacon.io/)              | 2018-04-09 |
+| Data Creationism                       | [ODSC Boston](https://www.odsc.com/boston)          | 2018-05-03 |
+| Amusing Algorithms                     | [PyBay](https://2018.pybay.com/schedule/index.html) | 2018-08-18 |
+| Accessible Algorithms                  | [PyCon Canada](https://2018.pycon.ca/)              | 2018-11-10 |
+| Building Better Budgets                | [MinneFRAMA](http://minneanalytics.org/minneframa/) | 2018-12-03 |
+| March Madness                          | [Lambda Brownbag](https://lambdaschool.com/)        | 2018-03-28 |
+| Regression Gone Wrong                  | [ODSC Boston](https://odsc.com/boston/)             | 2019-05-02 |
+| How to Read Code                       | [EuroPython](https://ep2019.europython.eu/)         | 2019-07-12 |
+|                                        |                                                     |            |
 
-## Previous
-
-| Title  | Event | Date | Slides | Video/Audio |
-|---|---|---|---|---|
-| Data Engineering for Data Scientists | [AnacondaCON](https://anacondacon.io/) | 8-11 April 2018 | [here](https://speakerdeck.com/maxhumber/data-engineering-for-data-scientists) | - |
-| Personal Pynance | [Pycon Colmobia](https://www.pycon.co/) | 9-11 February 2018 | [here](https://speakerdeck.com/maxhumber/personal-pynance) | - |
-| Visualizing Models | [ODSC London](https://www.odsc.com/london) | 12-14 October 2017 | [here](https://speakerdeck.com/maxhumber/visualizing-models) | - |
-| How to Make Money* with rvest and purrr | [useR!2017](https://user2017.brussels/) | 4-7 July 2017 | [here](https://speakerdeck.com/maxhumber/webscraping-with-rvest-and-purrr) | [here](https://channel9.msdn.com/events/useR-international-R-User-conferences/useR-International-R-User-2017-Conference/Scraping-data-with-rvest-and-purrr?term=max%20humber)
-| Patsy (to and from R) | [PyData Berlin](https://pydata.org/berlin2017/) | 1-2 July 2017 | [here](https://speakerdeck.com/maxhumber/patsy-pydata-berlin) | [here](https://www.youtube.com/watch?v=F7XLn2cstyc) |
-| Data Driven Deviations | [Big Data Toronto](http://www.bigdata-toronto.com/) | 20-21 June 2017 | [here](https://speakerdeck.com/maxhumber/data-driven-deviations) | - |

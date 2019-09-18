@@ -1,0 +1,65 @@
+school,region,seed,pf,pa,pf_conf,pa_conf
+Duke,East,1,83.4,67.6,73.18,67.78
+Michigan State,East,2,78.5,65.1,71.61,67.11
+Louisiana State,East,3,80.9,72.9,73.89,70.29
+Virginia Tech,East,4,73.6,61.7,73.18,67.78
+Mississippi State,East,5,77.3,70.4,73.89,70.29
+Maryland,East,6,71.4,65.5,71.61,67.11
+Louisville,East,7,74.6,68.4,73.18,67.78
+Virginia Commonwealth,East,8,71.0,61.9,69.07,68.45
+Central Florida,East,9,72.3,64.5,72.43,69.58
+Minnesota,East,10,70.6,69.4,71.61,67.11
+Belmont,East,11,86.4,74.7,74.94,77.02
+Liberty,East,12,72.0,62.8,70.74,73.36
+Saint Louis,East,13,66.6,63.8,69.07,68.45
+Yale,East,14,80.7,73.9,71.75,71.52
+Bradley,East,15,66.3,65.5,67.56,68.03
+North Dakota State,East,16,72.2,74.1,73.86,75.94
+North Carolina,Midwest,1,86.0,72.5,73.18,67.78
+Kentucky,Midwest,2,76.4,64.5,73.89,70.29
+Houston,Midwest,3,75.8,61.0,72.43,69.58
+Kansas,Midwest,4,75.7,70.1,72.2,67.85
+Auburn,Midwest,5,79.1,69.0,73.89,70.29
+Iowa State,Midwest,6,76.9,68.1,72.2,67.85
+Wofford,Midwest,7,80.5,67.4,75.14,75.24
+Utah State,Midwest,8,78.5,67.4,72.54,72.16
+Washington,Midwest,9,69.8,64.8,73.52,71.66
+Seton Hall,Midwest,10,73.8,71.9,75.2,72.2
+Ohio State,Midwest,11,69.1,66.2,71.61,67.11
+New Mexico State,Midwest,12,77.6,65.2,71.48,72.26
+Northeastern,Midwest,13,75.4,70.8,73.14,74.55
+Georgia State,Midwest,14,75.2,73.4,74.56,75.14
+Abilene Christian,Midwest,15,70.8,65.4,69.65,73.59
+Iona,Midwest,16,76.7,76.0,68.58,71.09
+Virginia,South,1,71.6,55.0,73.18,67.78
+Tennessee,South,2,81.6,69.7,73.89,70.29
+Purdue,South,3,76.1,66.1,71.61,67.11
+Kansas State,South,4,65.8,59.6,72.2,67.85
+Wisconsin,South,5,68.6,61.7,71.61,67.11
+Villanova,South,6,73.7,67.4,75.2,72.2
+Cincinnati,South,7,71.7,62.7,72.43,69.58
+Mississippi,South,8,75.3,71.1,73.89,70.29
+Oklahoma,South,9,71.3,68.2,72.2,67.85
+Iowa,South,10,78.3,73.9,71.61,67.11
+Saint Mary's (CA),South,11,72.4,64.3,72.41,69.57
+Oregon,South,12,70.6,62.5,73.52,71.66
+UC-Irvine,South,13,71.9,63.9,69.74,71.78
+Old Dominion,South,14,65.7,60.8,70.2,70.89
+Colgate,South,15,75.4,70.3,72.55,73.5
+Gardner-Webb,South,16,75.2,73.3,71.78,73.52
+Gonzaga,West,1,88.6,64.8,72.41,69.57
+Michigan,West,2,70.3,58.2,71.61,67.11
+Texas Tech,West,3,73.2,59.2,72.2,67.85
+Florida State,West,4,75.4,67.0,73.18,67.78
+Marquette,West,5,77.3,69.5,75.2,72.2
+Buffalo,West,6,84.2,71.3,74.03,71.67
+Nevada,West,7,80.1,66.8,72.54,72.16
+Syracuse,West,8,69.7,66.1,73.18,67.78
+Baylor,West,9,71.8,67.7,72.2,67.85
+Florida,West,10,67.8,63.6,73.89,70.29
+Arizona State,West,11,77.6,73.4,73.52,71.66
+Murray State,West,12,81.0,68.9,74.94,77.02
+Vermont,West,13,72.3,63.2,67.3,69.79
+Northern Kentucky,West,14,77.2,70.1,74.29,76.07
+Montana,West,15,75.9,69.4,73.13,75.56
+Fairleigh Dickinson,West,16,74.2,73.0,70.77,74.1

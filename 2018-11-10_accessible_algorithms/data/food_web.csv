@@ -1,0 +1,28 @@
+pred,prey
+shark,sea otter
+sea otter,sea stars
+sea otter,sea urchins
+sea otter,large crabs
+sea otter,large fish and octopus
+sea otter,abalone
+sea stars,abalone
+sea stars,small herbivorous fishes
+sea stars,sea urchins
+sea urchins,kelp
+sea urchins,sessile invertebrates
+sea urchins,algae
+abalone,algae
+large crabs,sea stars
+large crabs,smaller predatory fishes
+large crabs,algae
+large crabs,small herbivorous fishes
+large crabs,kelp
+smaller predatory fishes,sessile invertebrates
+smaller predatory fishes,planktonic invertebrates
+small herbivorous fishes,kelp
+large fish and octopus,smaller predatory fishes
+sessile invertebrates,microscopic planktonic algae
+sessile invertebrates,planktonic invertebrates
+algae,kelp
+algae,sessile invertebrates
+planktonic invertebrates,microscopic planktonic algae

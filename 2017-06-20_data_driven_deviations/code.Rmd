@@ -1,0 +1,271 @@
+---
+title: "ddd"
+output: html_document
+author: 'Max Humber'
+---
+
+```{r, include=FALSE}
+library(tidyverse)
+library(ggstance)
+library(modelr)
+library(assertive)
+```
+ 
+# 3rd Party Data
+
+```{r, echo = FALSE}
+df <- tribble(
+    ~weight_range, ~prob, 
+    "0-2", 0.182, 
+    "3-5", 0.180, 
+    "6-10", 0.170, 
+    "11-12", 0.160, 
+    "13-17", 0.130, 
+    "18-20", 0.100,
+    "21-25", 0.080,
+    "26-40", 0.040, 
+    "41-47", 0.024, 
+    "48-50", 0.019
+)
+
+weights <- df %>% 
+    separate(weight_range, into = c("low", "high")) %>% 
+    mutate_all(as.numeric) %>% 
+    mutate(weight = (low + high) / 2) %>% 
+    mutate(year = '2016')
+```
+
+```{r}
+weights %>% 
+    ggplot(aes(x = weight, y = prob, color = year)) + 
+    geom_linerangeh(aes(xmin = low, xmax = high), size = 2, alpha = 0.8) +
+    scale_y_continuous(limits = c(0, 0.20), labels = scales::percent_format()) + 
+    labs(title = "Accident Risk by Weight", y = "", x = "Weight (kg)") + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5),
+        legend.key = element_blank())
+```
+
+```{r, echo = FALSE}
+updated <- tribble(
+    ~weight_range, ~prob, 
+    "0-2", 0.210, 
+    "4-6", 0.201, 
+    "7-10", 0.180, 
+    "11-15", 0.160, 
+    "16-17", 0.130, 
+    "18-20", 0.105,
+    "21-28", 0.080,
+    "29-40", 0.040, 
+    "41-46", 0.030, 
+    "47-50", 0.023)
+
+updated <- updated %>% 
+    separate(weight_range, into = c("low", "high")) %>% 
+    mutate_all(as.numeric) %>% 
+    mutate(weight = (low + high) / 2) %>% 
+    mutate(year = '2017')
+```
+
+```{r}
+both <- weights %>% bind_rows(updated)
+
+both %>% 
+    ggplot(aes(x = weight, y = prob, color = year)) + 
+    geom_linerangeh(aes(xmin = low, xmax = high), size = 2, alpha = 0.8) +
+    scale_y_continuous(limits = c(0, 0.25), labels = scales::percent_format()) + 
+    labs(title = "Accident Risk by Weight", y = "Rate", x = "Weight (kg)", color='Year') + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5),
+        legend.key = element_blank())
+```
+
+```{r}
+both %>% 
+    ggplot(aes(x = weight, y = prob, color = year)) + 
+    geom_linerangeh(aes(xmin = low, xmax = high)) + #1
+    geom_point() + #2
+    geom_smooth(method = "loess", span = 0.8, se=FALSE) + #3
+    scale_y_continuous(limits = c(0, 0.25), labels = scales::percent_format()) + 
+    labs(title = "Accident Risk by Weight", y = "Rate", x = "Weight (kg)", color='Year') + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5), 
+        legend.key = element_blank())
+```
+
+```{r}
+library(tidyverse); library(modelr)
+
+mod <- loess(prob ~ weight, data = updated, span = 0.8)
+
+predict(mod, tibble(weight=12.5))
+
+weight_grid <- tibble(weight = seq(0, 50, 0.5)) %>% 
+    add_predictions(mod, var = "prob")
+```
+
+```{r}
+both %>% 
+    filter(year=='2017') %>% 
+    ggplot(aes(x = weight, y = prob, color = year)) + 
+    geom_point() +
+    geom_smooth(method = "loess", span = 0.8, se=FALSE) +
+    scale_y_continuous(limits = c(0, 0.25), labels = scales::percent_format()) + 
+    labs(title = "Accident Risk by Weight", y = "Rate", x = "Weight (kg)", color='Year') + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5), 
+        legend.key = element_blank())
+```
+
+# Investors
+
+```{r}
+set.seed(1)
+price <- tibble(prob = seq(0.00, 0.20, 0.02)) %>% 
+    mutate(premium = 1500 * prob + 100) %>% 
+    mutate(version = 'One')
+```
+
+```{r}
+price %>% 
+    ggplot(aes(x = prob, y = premium)) + 
+    geom_line(size = 1, alpha = 0.8) + 
+    scale_y_continuous(limits = c(0, 400), labels = scales::dollar_format()) + 
+    scale_x_continuous(limits = c(0, 0.22), breaks = seq(0, 0.25, 0.02), labels = scales::percent_format()) + 
+    labs(title = "Price Curve", y = "Premium", x = "Accident Risk", color='Year') + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5), 
+        legend.key = element_blank())
+```
+
+```{r}
+comp <- tibble(intercept=125, slope=1100, color='Banana Life')
+
+price %>% 
+    ggplot(aes(x = prob, y = premium)) + 
+    geom_line(size = 1, alpha = 0.8) + 
+    geom_abline(data=comp, aes(color=color, slope=slope, intercept=intercept), lty=2, size = 1, show.legend = TRUE) + 
+    scale_y_continuous(limits = c(0, 400), labels = scales::dollar_format()) + 
+    scale_x_continuous(limits = c(0, 0.22), breaks = seq(0, 0.25, 0.02), labels = scales::percent_format()) + 
+    labs(title = "Price Curve", y = "Premium", x = "Accident Risk", color='') + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5), 
+        legend.key = element_blank())
+```
+
+```{r}
+kink <- function(x, intercept, slopes, breaks) {
+    
+    assertive::assert_is_of_length(intercept, n = 1)
+    assertive::assert_is_of_length(breaks, n = length(slopes) - 1)
+    
+    intercepts <- c(intercept)
+    
+    for(i in 1:length(slopes)-1) {
+        intercept <- intercepts[i] + slopes[i] * breaks[i] - slopes[i+1] * breaks[i]
+        intercepts <- c(intercepts, intercept)
+    }
+    
+    i = 1 + findInterval(x, breaks)
+    y = slopes[i] * x + intercepts[i]
+    
+    return(y)
+    
+}
+```
+
+```{r}
+kink(
+    x = 0.132,
+    intercept = 100,
+    slopes = c(1500, 1100, 3100, 1500),
+    breaks = c(0.06, 0.14, 0.16)
+)
+```
+
+```{r}
+kink_df <- tibble(x = 1:100)
+
+kink_df %>% 
+    mutate(y = kink(x,
+        intercept = 5,
+        slopes = c(4, 2, -1, 6),
+        breaks = c(10, 30, 70)
+    )) %>% 
+    ggplot(aes(x, y)) + 
+    geom_line() + 
+    labs(title = "Kink Function - #1", y = "y", x = "x", 
+         subtitle = "Intercept: 5, Slopes: [4, 2, -1, 6], Breaks: [10, 30, 70]") + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5), 
+        legend.key = element_blank())
+
+kink_df %>% 
+    mutate(y = kink(x,
+        intercept = 20,
+        slopes = c(-5, 0, 4, 2),
+        breaks = c(40, 60, 80)
+    )) %>% 
+    ggplot(aes(x, y)) + 
+    geom_line() + 
+    labs(title = "Kink Function - #2", y = "y", x = "x", 
+         subtitle = "Intercept: 20, Slopes: [-5, 0, 4, 2], Breaks: [40, 60, 80]") + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5), 
+        legend.key = element_blank())
+```
+
+
+```{r}
+price_comp <- tibble(prob = seq(0, 0.20, 0.01)) %>% 
+    mutate(premium = kink(
+        prob,
+        intercept = 100,
+        slopes = c(1500, 1100, 3100, 1500),
+        breaks = c(0.06, 0.14, 0.16)
+    )) %>% 
+    mutate(version = "Two")
+
+price_both <- bind_rows(price, price_comp)
+comp <- tibble(intercept=125, slope=1100, color='Banana Life')
+
+price_both %>% 
+    ggplot(aes(x = prob, y = premium, color = version)) + 
+    geom_line(data = price, color = "grey40") + # 1
+    geom_abline(data=comp, aes(color=color, slope=slope, intercept=intercept), lty=2, size = 1, show.legend = TRUE) + # 2
+    geom_line(data=price_comp, color = "orange", size = 1.5) + # 3
+    scale_y_continuous(limits = c(0, 400), labels = scales::dollar_format()) + 
+    scale_x_continuous(limits = c(0, 0.2), breaks = seq(0, 0.2, 0.02), labels = scales::percent_format()) + 
+    labs(title = "Price Curve", y = "Premium", x = "Accident Risk", color = '',
+         subtitle = "Intercept: 100, Slopes: [1500, 1100, 3100, 1500], Breaks: [6%, 14%, 16%]") + 
+    theme(
+        panel.background = element_rect(fill = "white"), 
+        axis.ticks = element_blank(), 
+        panel.grid.minor = element_blank(), 
+        panel.grid.major = element_line(color='grey90', size=0.5), 
+        legend.key = element_blank())
+```

@@ -1,0 +1,69 @@
+school,region,seed
+Duke,East,1
+Michigan State,East,2
+Louisiana State,East,3
+Virginia Tech,East,4
+Mississippi State,East,5
+Maryland,East,6
+Louisville,East,7
+Virginia Commonwealth,East,8
+Central Florida,East,9
+Minnesota,East,10
+Belmont,East,11a
+Temple,East,11b
+Liberty,East,12
+Saint Louis,East,13
+Yale,East,14
+Bradley,East,15
+North Carolina Central,East,16a
+North Dakota State,East,16b
+North Carolina,Midwest,1
+Kentucky,Midwest,2
+Houston,Midwest,3
+Kansas,Midwest,4
+Auburn,Midwest,5
+Iowa State,Midwest,6
+Wofford,Midwest,7
+Utah State,Midwest,8
+Washington,Midwest,9
+Seton Hall,Midwest,10
+Ohio State,Midwest,11
+New Mexico State,Midwest,12
+Northeastern,Midwest,13
+Georgia State,Midwest,14
+Abilene Christian,Midwest,15
+Iona,Midwest,16
+Virginia,South,1
+Tennessee,South,2
+Purdue,South,3
+Kansas State,South,4
+Wisconsin,South,5
+Villanova,South,6
+Cincinnati,South,7
+Mississippi,South,8
+Oklahoma,South,9
+Iowa,South,10
+Saint Mary's (CA),South,11
+Oregon,South,12
+UC-Irvine,South,13
+Old Dominion,South,14
+Colgate,South,15
+Gardner-Webb,South,16
+Gonzaga,West,1
+Michigan,West,2
+Texas Tech,West,3
+Florida State,West,4
+Marquette,West,5
+Buffalo,West,6
+Nevada,West,7
+Syracuse,West,8
+Baylor,West,9
+Florida,West,10
+Arizona State,West,11a
+St. John's (NY),West,11b
+Murray State,West,12
+Vermont,West,13
+Northern Kentucky,West,14
+Montana,West,15
+Fairleigh Dickinson,West,16a
+Prairie View,West,16b
