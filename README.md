@@ -6,7 +6,7 @@
 | R • Patsy • Python                     | [PyData Berlin](https://pydata.org/berlin2017/)     | 2017-07-01 |
 | How to Make Money with rvest and purrr | [useR!](https://user2017.brussels/)                 | 2017-07-06 |
 | Visualizing Models                     | [ODSC London](https://www.odsc.com/london)          | 2017-10-13 |
-| Personal Pynance                       | [Pycon Colmobia](https://www.pycon.co/)             | 2018-02-10 |
+| Personal Pynance                       | [PyCon Colombia](https://www.pycon.co/)             | 2018-02-10 |
 | Data Engineering for Data Scientists   | [AnacondaCON](https://anacondacon.io/)              | 2018-04-09 |
 | Data Creationism                       | [ODSC Boston](https://www.odsc.com/boston)          | 2018-05-03 |
 | Amusing Algorithms                     | [PyBay](https://2018.pybay.com/schedule/index.html) | 2018-08-18 |
