@@ -1,0 +1,300 @@
+player,team,position,games,fantasy_points,vorp
+Brent Burns,San Jose,D,82,809.9000000000001,285.3650000000001
+Erik Karlsson,Ottawa,D,75,749.8,225.265
+Alexander Ovechkin,Washington,LW,81,773.4000000000001,204.80000000000007
+Connor McDavid,Edmonton,C,80,797.4,167.93499999999995
+Patrick Kane,Chicago,RW,77,738.5,143.37
+Auston Matthews,Toronto,C,80,763.3,133.83499999999992
+Sidney Crosby,Pittsburgh,C,77,756.1,126.63499999999999
+Jamie Benn,Dallas,LW,80,693.4,124.79999999999995
+Vladimir Tarasenko,St. Louis,RW,80,718.8,123.66999999999996
+Nikita Kucherov,Tampa Bay,RW,77,713.4,118.26999999999998
+Roman Josi,Nashville,D,77,639.2,114.66500000000008
+Brad Marchand,Boston,LW,78,682.7,114.10000000000002
+Victor Hedman,Tampa Bay,D,78,630.9,106.36500000000001
+Max Pacioretty,Montreal,LW,81,672.5,103.89999999999998
+Joe Pavelski,San Jose,RW,82,683.3,88.16999999999996
+Shea Weber,Montreal,D,78,611.2,86.66500000000008
+Tyler Seguin,Dallas,C,77,710,80.53499999999997
+Blake Wheeler,Winnipeg,RW,81,674.5,79.37
+Dustin Byfuglien,Winnipeg,D,78,592.5,67.96500000000003
+Mark Giordano,Calgary,D,76,585.2,60.66500000000008
+Drew Doughty,Los Angeles,D,82,574.5,49.96500000000003
+John Tavares,N.Y. Islanders,C,78,678.8,49.33499999999992
+Filip Forsberg,Nashville,LW,82,617.9,49.299999999999955
+Zach Werenski,Columbus,D,78,573.3,48.764999999999986
+David Pastrnak,Boston,RW,77,643.7,48.57000000000005
+Patrik Laine,Winnipeg,RW,79,639.5,44.370000000000005
+Alex Pietrangelo,St. Louis,D,78,562.2,37.66500000000008
+Jack Eichel,Buffalo,C,78,666.8,37.33499999999992
+Rasmus Ristolainen,Buffalo,D,80,553.6,29.065000000000055
+Ivan Provorov,Philadelphia,D,80,551.5,26.965000000000032
+Patrice Bergeron,Boston,C,80,650,20.534999999999968
+Mike Hoffman,Ottawa,LW,76,587.4,18.799999999999955
+Kris Letang,Pittsburgh,D,60,536.8,12.264999999999986
+Steven Stamkos,Tampa Bay,C,73,640.8,11.334999999999923
+Evgeni Malkin,Pittsburgh,C,68,639.2,9.735000000000014
+Duncan Keith,Chicago,D,77,533.3,8.764999999999986
+Torey Krug,Boston,D,80,532.4,7.865000000000009
+John Carlson,Washington,D,71,532.1,7.565000000000055
+Colton Parayko,St. Louis,D,80,530.6,6.065000000000055
+Jeff Skinner,Carolina,LW,79,572.2,3.6000000000000227
+Nicklas Backstrom,Washington,C,80,632.8,3.3349999999999227
+Phil Kessel,Pittsburgh,RW,82,597.7,2.57000000000005
+Artemi Panarin,Columbus,LW,81,571.1,2.5
+John Klingberg,Dallas,D,78,524.7,0.1650000000000773
+Dougie Hamilton,Calgary,D,79,522.4,-2.134999999999991
+P.K. Subban,Nashville,D,71,517.2,-7.334999999999923
+Johnny Gaudreau,Calgary,LW,77,553.8,-14.800000000000068
+William Nylander,Toronto,RW,80,576.6,-18.529999999999973
+Brandon Saad,Chicago,LW,81,545.4,-23.200000000000045
+Jeff Carter,Los Angeles,C,81,605.8,-23.665000000000077
+Ryan McDonagh,N.Y. Rangers,D,75,500.8,-23.734999999999957
+Oliver Ekman-Larsson,Arizona,D,79,500.4,-24.13499999999999
+Taylor Hall,New Jersey,LW,72,544.3,-24.300000000000068
+Brent Seabrook,Chicago,D,80,499.70000000000005,-24.834999999999923
+Nikolaj Ehlers,Winnipeg,LW,77,543.2,-25.399999999999977
+Zach Parise,Minnesota,LW,71,543,-25.600000000000023
+Kevin Shattenkirk,N.Y. Rangers,D,79,498.1,-26.434999999999945
+Ryan Getzlaf,Anaheim,C,76,601.9,-27.565000000000055
+Jakub Voracek,Philadelphia,RW,80,566.5,-28.629999999999995
+Justin Faulk,Carolina,D,74,495.20000000000005,-29.334999999999923
+Ryan Suter,Minnesota,D,81,494,-30.534999999999968
+Cam Atkinson,Columbus,RW,81,563.1,-32.02999999999997
+Mark Scheifele,Winnipeg,C,78,592.1,-37.36500000000001
+Shayne Gostisbehere,Philadelphia,D,77,486.70000000000005,-37.83499999999992
+Claude Giroux,Philadelphia,C,81,588.1,-41.36500000000001
+Jacob Trouba,Winnipeg,D,74,480.70000000000005,-43.83499999999992
+Wayne Simmonds,Philadelphia,RW,80,548.4,-46.73000000000002
+Mitch Marner,Toronto,RW,78,544.6,-50.52999999999997
+Patric Hornqvist,Pittsburgh,RW,72,542.9,-52.23000000000002
+Viktor Arvidsson,Nashville,RW,77,542.2,-52.92999999999995
+Jaden Schwartz,St. Louis,LW,79,514.3,-54.30000000000007
+Kyle Palmieri,New Jersey,RW,81,538.3,-56.83000000000004
+Corey Perry,Anaheim,RW,78,538.1,-57.02999999999997
+Keith Yandle,Florida,D,82,467.3,-57.23499999999996
+Chris Kreider,N.Y. Rangers,LW,77,511.1,-57.5
+Cam Fowler,Anaheim,D,77,459.1,-65.43499999999995
+Jaccob Slavin,Carolina,D,80,457.5,-67.03499999999997
+Jake Muzzin,Los Angeles,D,81,456.3,-68.23499999999996
+Nick Foligno,Columbus,LW,77,496.5,-72.10000000000002
+Matt Niskanen,Washington,D,80,450.5,-74.03499999999997
+Daniel Sedin,Vancouver,LW,82,494.1,-74.5
+Anders Lee,N.Y. Islanders,LW,79,491.8,-76.80000000000001
+Evgeny Kuznetsov,Washington,C,82,550.9,-78.56500000000005
+Mats Zuccarello,N.Y. Rangers,RW,80,515.5,-79.63
+Jared Spurgeon,Minnesota,D,74,444.5,-80.03499999999997
+Sean Monahan,Calgary,C,81,549.3,-80.16500000000008
+Alec Martinez,Los Angeles,D,75,444.1,-80.43499999999995
+Nick Leddy,N.Y. Islanders,D,80,443.6,-80.93499999999995
+Jonathan Drouin,Montreal,LW,77,486.6,-82
+Nathan MacKinnon,Colorado,C,75,544.1,-85.36500000000001
+Jakob Silfverberg,Anaheim,RW,80,509.4,-85.73000000000002
+Seth Jones,Columbus,D,78,438.8,-85.73499999999996
+Jonathan Toews,Chicago,C,76,543.7,-85.76499999999999
+Johnny Boychuk,N.Y. Islanders,D,68,437.3,-87.23499999999996
+Jordan Eberle,N.Y. Islanders,RW,78,507.6,-87.52999999999997
+Leon Draisaitl,Edmonton,C,77,541,-88.46500000000003
+Oskar Klefbom,Edmonton,D,76,433.8,-90.73499999999996
+James van Riemsdyk,Toronto,LW,76,477.3,-91.30000000000001
+Henrik Zetterberg,Detroit,C,80,537.2,-92.26499999999999
+Vincent Trocheck,Florida,C,79,536.6,-92.86500000000001
+T.J. Oshie,Washington,RW,72,501.6,-93.52999999999997
+Erik Johnson,Colorado,D,74,429.70000000000005,-94.83499999999992
+Alex Goligoski,Arizona,D,81,428.1,-96.43499999999995
+Tyson Barrie,Colorado,D,77,427.1,-97.43499999999995
+J.T. Miller,N.Y. Rangers,LW,82,470.8,-97.80000000000001
+Patrick Marleau,Toronto,LW,82,470.4,-98.20000000000005
+Jonathan Huberdeau,Florida,LW,70,468.8,-99.80000000000001
+Sebastian Aho,Carolina,RW,80,494.6,-100.52999999999997
+Zdeno Chara,Boston,D,73,423.8,-100.73499999999996
+Morgan Rielly,Toronto,D,79,422.8,-101.73499999999996
+Brayden Schenn,St. Louis,LW,80,466.8,-101.80000000000001
+Mark Stone,Ottawa,RW,75,492.6,-102.52999999999997
+Eric Staal,Minnesota,C,80,524.4,-105.06500000000005
+Mikael Granlund,Minnesota,RW,78,489.70000000000005,-105.42999999999995
+Rickard Rakell,Anaheim,LW,74,462.1,-106.5
+Anze Kopitar,Los Angeles,C,78,522.7,-106.76499999999999
+Evander Kane,Buffalo,LW,66,461.8,-106.80000000000001
+Ryan Johansen,Nashville,C,81,522.6,-106.86500000000001
+Justin Schultz,Pittsburgh,D,75,416.2,-108.33499999999998
+Ondrej Palat,Tampa Bay,LW,72,459.5,-109.10000000000002
+Radim Vrbata,Florida,RW,76,485.70000000000005,-109.42999999999995
+Tanner Pearson,Los Angeles,LW,80,458.4,-110.20000000000005
+Marc-Edouard Vlasic,San Jose,D,72,412.4,-112.13499999999999
+Aleksander Barkov,Florida,C,72,517.2,-112.26499999999999
+Dion Phaneuf,Ottawa,D,77,411.20000000000005,-113.33499999999992
+James Neal,Vegas,RW,73,481.6,-113.52999999999997
+Logan Couture,San Jose,C,70,514.3,-115.16500000000008
+Nazem Kadri,Toronto,C,78,514.3,-115.16500000000008
+Tomas Tatar,Detroit,LW,81,451.20000000000005,-117.39999999999998
+Rick Nash,N.Y. Rangers,LW,68,450.5,-118.10000000000002
+Milan Lucic,Edmonton,LW,81,447.6,-121
+Aaron Ekblad,Florida,D,75,402.9,-121.63499999999999
+Matthew Tkachuk,Calgary,LW,78,443.8,-124.80000000000001
+Gabriel Landeskog,Colorado,LW,75,442,-126.60000000000002
+Mike Green,Detroit,D,73,397.6,-126.93499999999995
+Jake Gardiner,Toronto,D,81,397.5,-127.03499999999997
+Tyler Myers,Winnipeg,D,76,397.5,-127.03499999999997
+Nino Niederreiter,Minnesota,RW,82,468,-127.13
+Matt Dumba,Minnesota,D,76,396.8,-127.73499999999996
+Clayton Keller,Arizona,LW,77,440,-128.60000000000002
+Ryan Hartman,Chicago,LW,78,438.9,-129.70000000000005
+Kyle Okposo,Buffalo,RW,68,465.3,-129.82999999999998
+Sami Vatanen,Anaheim,D,67,394.2,-130.33499999999998
+Mikko Koivu,Minnesota,C,81,499.1,-130.365
+Tomas Hertl,San Jose,C,75,498.70000000000005,-130.765
+T.J. Brodie,Calgary,D,79,392.8,-131.73499999999996
+Jake Guentzel,Pittsburgh,RW,78,462.1,-133.02999999999997
+Ryan O'Reilly,Buffalo,C,76,496.3,-133.16500000000002
+David Backes,Boston,RW,77,461.4,-133.73000000000002
+Tyler Toffoli,Los Angeles,RW,71,461.3,-133.82999999999998
+Conor Sheary,Pittsburgh,LW,74,434.20000000000005,-134.39999999999998
+Dmitry Orlov,Washington,D,82,389.2,-135.33499999999998
+Justin Williams,Carolina,RW,81,459.3,-135.82999999999998
+Andrew Ladd,N.Y. Islanders,LW,78,432.70000000000005,-135.89999999999998
+Brady Skjei,N.Y. Rangers,D,80,387.70000000000005,-136.83499999999992
+Derek Stepan,Arizona,C,76,491.8,-137.66500000000002
+Mattias Ekholm,Nashville,D,82,384.4,-140.135
+Calvin De Haan,N.Y. Islanders,D,75,384.2,-140.33499999999998
+Alexander Radulov,Dallas,RW,77,454.1,-141.02999999999997
+Max Domi,Arizona,LW,77,425.70000000000005,-142.89999999999998
+Jeff Petry,Montreal,D,72,381.3,-143.23499999999996
+Gustav Nyquist,Detroit,RW,79,451.70000000000005,-143.42999999999995
+Teuvo Teravainen,Carolina,LW,79,422.70000000000005,-145.89999999999998
+Jason Pominville,Buffalo,RW,78,449.20000000000005,-145.92999999999995
+David Savard,Columbus,D,74,378.4,-146.135
+Kyle Turris,Ottawa,C,75,483.3,-146.16500000000002
+Nikita Zaitsev,Toronto,D,80,376.8,-147.73499999999996
+Jason Spezza,Dallas,C,73,480.4,-149.06500000000005
+Shea Theodore,Vegas,D,78,374.4,-150.135
+Anthony Mantha,Detroit,RW,77,444.3,-150.82999999999998
+Marcus Johansson,New Jersey,LW,80,414.8,-153.8
+Anton Stralman,Tampa Bay,D,76,367.9,-156.635
+Dylan Larkin,Detroit,LW,80,411.70000000000005,-156.89999999999998
+Michael Frolik,Calgary,RW,78,436.9,-158.23000000000002
+Andre Burakovsky,Washington,LW,78,409.9,-158.70000000000005
+Sam Reinhart,Buffalo,RW,79,436.4,-158.73000000000002
+Alexander Steen,St. Louis,LW,66,408.1,-160.5
+Josh Morrissey,Winnipeg,D,80,363.1,-161.43499999999995
+Mika Zibanejad,N.Y. Rangers,C,75,468,-161.46500000000003
+Charlie Coyle,Minnesota,RW,82,433.5,-161.63
+Tyler Johnson,Tampa Bay,C,70,464.20000000000005,-165.265
+Mikael Backlund,Calgary,C,77,463.9,-165.56500000000005
+Derick Brassard,Ottawa,C,80,461.5,-167.96500000000003
+Matt Duchene,Colorado,C,78,459.8,-169.66500000000002
+Patrick Maroon,Edmonton,LW,77,398.6,-170
+Brendan Gallagher,Montreal,RW,67,422,-173.13
+Patrick Sharp,Chicago,LW,66,395.4,-173.20000000000005
+Jonathan Marchessault,Vegas,LW,74,393.4,-175.20000000000005
+Josh Bailey,N.Y. Islanders,LW,79,393.20000000000005,-175.39999999999998
+Brett Pesce,Carolina,D,79,348.7,-175.83499999999998
+Radko Gudas,Philadelphia,D,71,347.9,-176.635
+Jack Johnson,Columbus,D,76,347.1,-177.43499999999995
+Scott Hartnell,Nashville,LW,78,390.9,-177.70000000000005
+Hampus Lindholm,Anaheim,D,70,346.4,-178.135
+Joe Thornton,San Jose,C,80,450.6,-178.865
+Frans Nielsen,Detroit,C,79,449.4,-180.06500000000005
+Alex Galchenyuk,Montreal,C,74,447.9,-181.56500000000005
+Elias Lindholm,Carolina,RW,77,411.8,-183.32999999999998
+Oliver Bjorkstrand,Columbus,RW,77,410.8,-184.32999999999998
+Alex DeBrincat,Chicago,LW,72,384,-184.60000000000002
+Evgeni Dadonov,Florida,LW,77,381.1,-187.5
+Vadim Shipachyov,Vegas,C,75,441.6,-187.865
+Adam Larsson,Edmonton,D,76,335.8,-188.73499999999996
+Boone Jenner,Columbus,C,76,440.70000000000005,-188.765
+Loui Eriksson,Vancouver,LW,73,379.6,-189
+David Perron,Vegas,LW,79,378.8,-189.8
+Jason Zucker,Minnesota,LW,70,374.3,-194.3
+Reilly Smith,Vegas,RW,81,398.70000000000005,-196.42999999999995
+Michael Del Zotto,Vancouver,D,66,327.6,-196.93499999999995
+Thomas Chabot,Ottawa,D,77,327.5,-197.03499999999997
+Julius Honka,Dallas,D,77,326.9,-197.635
+Brock Boeser,Vancouver,RW,78,397.20000000000005,-197.92999999999995
+David Krejci,Boston,C,71,428.7,-200.76500000000004
+Kevin Hayes,N.Y. Rangers,C,78,425.8,-203.66500000000002
+Charlie McAvoy,Boston,D,77,320.5,-204.03499999999997
+Alex Killorn,Tampa Bay,LW,78,363.6,-205
+Alexander Wennberg,Columbus,C,78,424.2,-205.26500000000004
+Mathieu Perreault,Winnipeg,LW,66,360.7,-207.90000000000003
+Patrick Eaves,Anaheim,RW,60,387.1,-208.02999999999997
+Brock Nelson,N.Y. Islanders,C,81,421.3,-208.16500000000002
+Craig Smith,Nashville,RW,80,386,-209.13
+Richard Panik,Chicago,RW,78,385.4,-209.73000000000002
+Jussi Jokinen,Edmonton,LW,75,358.4,-210.20000000000005
+Adam Henrique,New Jersey,C,80,418.3,-211.16500000000002
+Thomas Vanek,Vancouver,LW,73,356.4,-212.20000000000005
+Timo Meier,San Jose,LW,79,355.9,-212.70000000000005
+Bo Horvat,Vancouver,C,80,416.3,-213.16500000000002
+Bobby Ryan,Ottawa,RW,71,380.4,-214.73000000000002
+Jakob Chychrun,Arizona,D,75,309.2,-215.33499999999998
+Jordan Staal,Carolina,C,76,410.3,-219.16500000000002
+Frank Vatrano,Boston,LW,66,348.20000000000005,-220.39999999999998
+Ryan Nugent-Hopkins,Edmonton,C,74,406.5,-222.96500000000003
+Jean-Gabriel Pageau,Ottawa,C,82,405.9,-223.56500000000005
+Connor Brown,Toronto,RW,81,370.5,-224.63
+Victor Rask,Carolina,C,81,404.4,-225.06500000000005
+Travis Konecny,Philadelphia,LW,77,342.9,-225.70000000000005
+Artturi Lehkonen,Montreal,LW,75,341.3,-227.3
+Bryan Little,Winnipeg,C,67,401.4,-228.06500000000005
+Mike Cammalleri,Los Angeles,LW,64,339.9,-228.70000000000005
+Brayden Point,Tampa Bay,C,75,400.1,-229.365
+Carl Hagelin,Pittsburgh,LW,71,338.5,-230.10000000000002
+Nick Bonino,Nashville,C,75,398.7,-230.76500000000004
+Ryan Callahan,Tampa Bay,RW,70,362.3,-232.82999999999998
+Andrew Cogliano,Anaheim,LW,82,335.5,-233.10000000000002
+Tobias Rieder,Arizona,RW,78,359.8,-235.32999999999998
+Nick Ritchie,Anaheim,LW,77,331.6,-237
+Tomas Plekanec,Montreal,C,80,388.20000000000005,-241.265
+Mikko Rantanen,Colorado,RW,78,353.4,-241.73000000000002
+Chris Kunitz,Tampa Bay,LW,74,326.2,-242.40000000000003
+Oskar Lindblom,Philadelphia,LW,72,325.7,-242.90000000000003
+Brett Ritchie,Dallas,RW,78,349.8,-245.32999999999998
+Kevin Fiala,Nashville,LW,75,322.8,-245.8
+Paul Stastny,St. Louis,C,68,379,-250.46500000000003
+Brandon Dubinsky,Columbus,C,74,378.2,-251.26500000000004
+Ryan Spooner,Boston,C,79,377.70000000000005,-251.765
+Ryan Strome,Edmonton,RW,73,342.6,-252.52999999999997
+Zach Hyman,Toronto,LW,78,315.6,-253
+Charles Hudon,Montreal,LW,72,314.5,-254.10000000000002
+Sam Gagner,Vancouver,C,74,375.20000000000005,-254.265
+Dustin Brown,Los Angeles,RW,81,340.1,-255.02999999999997
+Henrik Sedin,Vancouver,C,80,371.1,-258.365
+Colin Wilson,Colorado,LW,71,308.3,-260.3
+Sean Couturier,Philadelphia,C,69,366.6,-262.865
+Tyler Bozak,Toronto,C,74,366.2,-263.26500000000004
+Martin Hanzal,Dallas,C,67,365.20000000000005,-264.265
+Leo Komarov,Toronto,LW,74,301.9,-266.70000000000005
+Josh Manson,Anaheim,D,77,257.5,-267.03499999999997
+Anders Bjork,Boston,RW,75,326.5,-268.63
+Lee Stempniak,Carolina,RW,79,324.8,-270.33
+Joel Ward,San Jose,RW,79,323.8,-271.33
+Andrew Shaw,Montreal,RW,73,323.2,-271.93
+Jakub Vrana,Washington,RW,74,320.8,-274.33
+Troy Brouwer,Calgary,RW,78,319.5,-275.63
+Nico Hischier,New Jersey,C,78,351,-278.46500000000003
+Jordan Weal,Philadelphia,LW,75,285.5,-283.1
+Marko Dano,Winnipeg,LW,75,285.3,-283.3
+Pavel Buchnevich,N.Y. Rangers,RW,74,309.8,-285.33
+Anthony Duclair,Arizona,RW,78,306.2,-288.93
+Nolan Patrick,Philadelphia,C,77,339,-290.46500000000003
+Artem Anisimov,Chicago,C,71,337.5,-291.96500000000003
+Justin Abdelkader,Detroit,RW,70,303,-292.13
+Michael Grabner,N.Y. Rangers,RW,67,301.4,-293.73
+Ales Hemsky,Montreal,RW,66,301,-294.13
+Kailer Yamamoto,Edmonton,RW,75,300,-295.13
+Scott Wilson,Pittsburgh,LW,72,272,-296.6
+Oscar Lindberg,Vegas,C,74,331.8,-297.665
+Nick Schmaltz,Chicago,RW,76,296.2,-298.93
+Nick Bjugstad,Florida,C,68,329,-300.46500000000003
+Christian Dvorak,Arizona,C,77,325.3,-304.165
+Sam Bennett,Calgary,C,79,324.3,-305.165
+Jesse Puljujarvi,Edmonton,RW,70,286.9,-308.23
+Sven Andrighetto,Colorado,RW,71,283.2,-311.93
+Bryan Rust,Pittsburgh,RW,67,273.3,-321.83
+Adam Lowry,Winnipeg,C,80,297.8,-331.665
+Pavel Zacha,New Jersey,C,78,293.5,-335.96500000000003
+Vladimir Sobotka,St. Louis,RW,68,250.4,-344.73
+Josh Ho-Sang,N.Y. Islanders,RW,75,246.3,-348.83
+Mathew Barzal,N.Y. Islanders,C,75,277.4,-352.06500000000005
+Cal Clutterbuck,N.Y. Islanders,RW,71,228.2,-366.93

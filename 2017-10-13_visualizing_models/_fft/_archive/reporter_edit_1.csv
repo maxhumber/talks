@@ -1,0 +1,293 @@
+datetime,feeling,where,who,weather,log,what
+2016-01-02,0.04851827185935065,Carlisle,No one,Overcast,1,Listening
+2016-01-02,0.04851827185935065,Carlisle,No one,Overcast,2,Resting
+2016-01-02,1.0485182718593506,Carlisle,No one,Overcast,3,Watching
+2016-01-02,1.0485182718593506,Carlisle,"Mom,Sunny Humber",Mostly Cloudy,4,Gaming
+2016-01-02,1.0485182718593506,Carlisle,No one,Mostly Cloudy,5,Reading
+2016-01-03,0.04851827185935065,Waterloo,"Dad,Mom",Light Snow,8,Commuting
+2016-01-03,0.04851827185935065,MH-204,No one,Light Snow,9,Commuting
+2016-01-03,1.0485182718593506,MH-204,No one,Partly Cloudy,10,Commuting
+2016-01-03,-0.9514817281406494,MH-204,No one,Overcast,11,Browsing
+2016-01-04,0.04851827185935065,MH-204,No one,Clear,14,Working
+2016-01-04,2.0485182718593506,MH-204,No one,Clear,15,Listening
+2016-01-04,1.0485182718593506,Velocity Garage,Drake William,Clear,16,Commuting
+2016-01-05,-0.9514817281406494,MH-204,No one,Light Snow,17,Resting
+2016-01-05,0.04851827185935065,MH-204,No one,Clear,18,Working
+2016-01-05,0.04851827185935065,MH-204,No one,Clear,19,Making
+2016-01-05,0.04851827185935065,MH-204,No one,Partly Cloudy,20,Eating
+2016-01-05,1.0485182718593506,Velocity,Residence,Clear,21,Making
+2016-01-06,1.0485182718593506,MH-204,No one,Clear,24,Browsing
+2016-01-06,0.04851827185935065,MH-204,No one,Mostly Cloudy,25,Eating
+2016-01-06,1.0485182718593506,Velocity,Residence,Overcast,26,Making
+2016-01-07,2.0485182718593506,Molly Blooms,"Adam Wendland,Harrison,Mark Williamson",Mostly Cloudy,27,Partying
+2016-01-07,0.04851827185935065,EV1 Courtyard,No one,Mostly Cloudy,30,Reading
+2016-01-07,0.04851827185935065,MH-204,No one,Clear,31,Listening
+2016-01-07,1.0485182718593506,MH-204,No one,Scattered Clouds,32,Reading
+2016-01-08,1.0485182718593506,MH-204,No one,Partly Cloudy,35,Showering
+2016-01-08,0.04851827185935065,MH-204,No one,Overcast,36,Applying
+2016-01-08,2.0485182718593506,Velocity Great Hall,Residence,Light Rain,37,Making
+2016-01-09,-1.9514817281406494,MH-204,No one,Light Rain,40,Gaming
+2016-01-09,-0.9514817281406494,Velocity War Room,David Moscoe,Overcast,41,Making
+2016-01-09,-0.9514817281406494,Velocity Makerspace,No one,Overcast,42,Making
+2016-01-09,0.04851827185935065,Velocity Great Hall,Residence,Overcast,43,Making
+2016-01-09,1.0485182718593506,MH-204,No one,Overcast,44,Resting
+2016-01-10,3.0485182718593506,Annie's,Annie Zhang,Light Rain,45,Enjoying
+2016-01-10,3.5485182718593506,Annie's,Annie Zhang,Light Snow,46,Enjoying
+2016-01-10,3.0485182718593506,Annie's,Annie Zhang,Light Snow,47,Resting
+2016-01-11,1.0485182718593506,Annie's,Annie Zhang,Light Snow Showers,48,Showering
+2016-01-11,0.04851827185935065,The Spoke,Annie Zhang,Light Snow Showers,49,Eating
+2016-01-11,0.04851827185935065,UWO Music Library,No one,Light Snow Showers,50,Reading
+2016-01-11,-0.9514817281406494,MH-204,No one,Mostly Cloudy,51,Listening
+2016-01-11,0.04851827185935065,MH-204,No one,Mostly Cloudy,52,Reading
+2016-01-12,0.04851827185935065,MH-204,No one,Light Snow,53,Browsing
+2016-01-12,0.04851827185935065,J.R. Coutts Engineering Lecture Hall (RCH),"Emma Feher,Steve Collins",Light Snow,54,Working
+2016-01-12,1.0485182718593506,Velocity Great Hall,Residence,Light Snow,55,Reading
+2016-01-12,1.0485182718593506,MH-204,No one,Light Snow,56,Making
+2016-01-13,0.04851827185935065,MH-204,No one,Light Snow,59,Working
+2016-01-13,0.04851827185935065,EV1 Courtyard,No one,Light Snow,60,Reading
+2016-01-13,1.0485182718593506,Velocity War Room,"Ben Caunter,Matt,Steph Assad",Light Snow,61,Making
+2016-01-13,2.0485182718593506,MH-204,No one,Light Snow,62,Gaming
+2016-01-14,0.04851827185935065,MH-204,No one,Overcast,63,Reading
+2016-01-14,0.04851827185935065,MH-204,No one,Overcast,64,Eating
+2016-01-14,0.04851827185935065,MH-204,No one,Overcast,65,Reading
+2016-01-14,2.0485182718593506,MH-204,Annie Zhang,Overcast,66,Browsing
+2016-01-15,-1.9514817281406494,MH-204,No one,Overcast,67,Working
+2016-01-15,1.0485182718593506,Velocity Great Hall,Annie Zhang,Overcast,68,Making
+2016-01-15,2.0485182718593506,MH-204,Annie Zhang,Light Rain,69,Enjoying
+2016-01-15,2.5485182718593506,Thugz Island,"Sharva Hassamal,Dexter Shepherd,Dan Schissler,Annie Zhang",Light Rain,70,Partying
+2016-01-16,0.04851827185935065,MH-204,No one,Overcast,71,Browsing
+2016-01-16,1.0485182718593506,Liberty Village,Ben Caunter,Overcast,72,Eating
+2016-01-16,1.0485182718593506,Liberty Village,Ben Caunter,Overcast,73,Partying
+2016-01-16,2.5485182718593506,The Planet Traveler,Ben Caunter,Overcast,74,Partying
+2016-01-16,3.0485182718593506,Ryan's,"Ben Caunter,Ryan DeCaire",Partly Cloudy,75,Partying
+2016-01-17,2.0485182718593506,The Planet Traveler,Ben Caunter,Overcast,76,Resting
+2016-01-17,0.5485182718593506,MH-204,No one,Light Snow,77,Making
+2016-01-17,0.04851827185935065,MH-204,No one,Light Snow,78,Browsing
+2016-01-17,1.0485182718593506,Velocity Great Hall,"Alexander,Matt,David Moscoe,Matty",Light Snow,79,Making
+2016-01-18,0.04851827185935065,Environment 1 (EV1),"Emma Feher,Dexter Shepherd,Sharva Hassamal",Snow,82,Working
+2016-01-18,0.04851827185935065,MH-204,No one,Heavy Snow,83,Applying
+2016-01-18,0.04851827185935065,Velocity Great Hall,David Moscoe,Light Snow,84,Making
+2016-01-18,0.5485182718593506,MH-204,No one,Light Snow,85,Other-ing
+2016-01-19,0.04851827185935065,J.R. Coutts Engineering Lecture Hall (RCH),Steve Collins,Light Snow,88,Working
+2016-01-19,0.5485182718593506,MH-204,No one,Light Snow,89,Browsing
+2016-01-19,2.0485182718593506,Velocity Great Hall,No one,Light Snow,90,Watching
+2016-01-19,1.0485182718593506,Velocity Makerspace,"Allen Gao,Matt Sourgoutsidis,David Moscoe,Alexander Mistakidis,Matt Yang",Light Snow,91,Making
+2016-01-20,0.04851827185935065,MH-204,No one,Overcast,92,Showering
+2016-01-20,0.04851827185935065,MH-204,No one,Mostly Cloudy,93,Making
+2016-01-20,-0.9514817281406494,MH-204,No one,Light Snow,94,Browsing
+2016-01-20,0.04851827185935065,MH-204,No one,Light Snow,95,Making
+2016-01-20,0.04851827185935065,MH-204,No one,Partly Cloudy,96,Watching
+2016-01-20,0.04851827185935065,MH-204,No one,Partly Cloudy,97,Gaming
+2016-01-21,0.04851827185935065,MH-204,No one,Light Snow,98,Enjoying
+2016-01-21,0.04851827185935065,Davis Centre (DC),No one,Light Snow,99,Commuting
+2016-01-21,1.0485182718593506,Carlisle,Mom,Light Snow Showers,100,Watching
+2016-01-22,0.04851827185935065,Carlisle,No one,Mostly Cloudy,101,Browsing
+2016-01-22,0.04851827185935065,Starbucks,No one,Mostly Cloudy,102,Reading
+2016-01-22,2.0485182718593506,AirBnB,Annie Zhang,Partly Cloudy,103,Recovering
+2016-01-22,3.0485182718593506,AirBnB,Annie Zhang,Clear,104,Enjoying
+2016-01-23,1.5485182718593506,AirBnB,Annie Zhang,Clear,105,Enjoying
+2016-01-23,1.5485182718593506,GO Bus,Annie Zhang,Partly Cloudy,106,Gaming
+2016-01-23,2.5485182718593506,MH-204,Annie Zhang,Clear,107,Enjoying
+2016-01-24,2.0485182718593506,MH-204,Annie Zhang,Overcast,108,Gaming
+2016-01-24,1.5485182718593506,MH-204,No one,Overcast,109,Making
+2016-01-24,1.5485182718593506,MH-204,No one,Overcast,110,Watching
+2016-01-24,2.5485182718593506,Thugz Island,"Sharva Hassamal,Dexter Shepherd,Alex Manore,Dan Schissler,Mike Gucciardi",Overcast,111,Watching
+2016-01-24,1.0485182718593506,MH-204,No one,Overcast,112,Gaming
+2016-01-25,0.04851827185935065,Bob's Valu-Mart,No one,Clear,113,Shopping
+2016-01-25,0.04851827185935065,MH-204,No one,Clear,114,Reading
+2016-01-25,1.0485182718593506,MH-204,No one,Clear,115,Eating
+2016-01-26,1.0485182718593506,MH-204,No one,Overcast,118,Browsing
+2016-01-26,0.5485182718593506,J.R. Coutts Engineering Lecture Hall (RCH),Steve Collins,Light Rain,119,Working
+2016-01-26,1.5485182718593506,Bomber,"Sasha Corrent,Lana,Mark Williamson",Light Rain,120,Eating
+2016-01-26,2.0485182718593506,Velocity Great Hall,"Allen Gao,Alexander Mistakidis,Matt Sourgoutsidis",Light Rain,121,Watching
+2016-01-27,1.0485182718593506,Velocity Makerspace,Emma Feher,Scattered Clouds,122,Working
+2016-01-27,1.0485182718593506,Environment 1 (EV1),No one,Mostly Cloudy,123,Reading
+2016-01-27,1.5485182718593506,Velocity Great Hall,No one,Overcast,124,Making
+2016-01-28,0.04851827185935065,MH-204,No one,Light Snow,125,Browsing
+2016-01-28,-0.9514817281406494,J.R. Coutts Engineering Lecture Hall (RCH),Steve Collins,Light Snow,126,Working
+2016-01-28,2.0485182718593506,East Side Mario's,Residence,Light Snow,127,Making
+2016-01-29,1.0485182718593506,MH-204,No one,Scattered Clouds,130,Resting
+2016-01-29,1.0485182718593506,Velocity Makerspace,Emma Feher,Light Snow,131,Working
+2016-01-29,1.0485182718593506,MH-204,No one,Light Snow,132,Making
+2016-01-29,2.0485182718593506,Ben's,"Ben Caunter,Myles",Partly Cloudy,133,Partying
+2016-01-30,1.0485182718593506,MH-204,No one,Mostly Cloudy,134,Resting
+2016-01-30,1.0485182718593506,MH-204,No one,Mostly Cloudy,135,Eating
+2016-01-30,0.5485182718593506,MH-204,No one,Mostly Cloudy,136,Browsing
+2016-01-31,1.5485182718593506,MH-204,Annie Zhang,Overcast,137,Enjoying
+2016-01-31,1.5485182718593506,MH-204,No one,Light Rain,138,Making
+2016-01-31,2.0485182718593506,MH-204,No one,Light Rain,139,Making
+2016-01-31,2.0485182718593506,MH-204,No one,Light Rain,140,Making
+2016-02-01,0.04851827185935065,MH-204,No one,Mostly Cloudy,141,Browsing
+2016-02-01,0.04851827185935065,Environment 1 (EV1),"Emma Feher,Dexter Shepherd,Sharva Hassamal",Mostly Cloudy,142,Working
+2016-02-01,0.04851827185935065,MH-204,No one,Clear,144,Watching
+2016-02-01,0.5485182718593506,MH-204,No one,Clear,145,Listening
+2016-02-02,-0.45148172814064935,MH-204,No one,Overcast,146,Working
+2016-02-02,1.0485182718593506,MH-204,No one,Overcast,147,Resting
+2016-02-02,-1.9514817281406494,Velocity Great Hall,"Alexander Mistakidis,Matt Sourgoutsidis",Overcast,148,Making
+2016-02-03,0.04851827185935065,MH-204,No one,Overcast,149,Browsing
+2016-02-03,1.0485182718593506,MH-204,No one,Overcast,150,Applying
+2016-02-03,1.5485182718593506,Quantum Nano Centre (QNC),No one,Clear,151,Exercising
+2016-02-03,2.0485182718593506,The Ranch,"Dan Schissler,Mark Williamson",Overcast,152,Partying
+2016-02-04,-0.9514817281406494,Conestoga Mall,No one,Scattered Clouds,153,Other-ing
+2016-02-04,0.04851827185935065,MH-204,No one,Overcast,154,Resting
+2016-02-04,1.0485182718593506,MH-204,No one,Overcast,155,Making
+2016-02-05,-1.9514817281406494,MH-204,No one,Overcast,156,Resting
+2016-02-05,2.0485182718593506,MH-204,No one,Mostly Cloudy,157,Gaming
+2016-02-05,1.5485182718593506,MH-204,No one,Partly Cloudy,158,Working
+2016-02-05,2.0485182718593506,Thugz Island,"Dan Schissler,Sharva Hassamal,Alex Manore",Overcast,159,Partying
+2016-02-05,2.5485182718593506,Thugz Island,"Dan,Alex Manore,Everyone,Vicky,Dan Schissler,Mike Gucciardi,Anja,Sharva Hassamal,Adam Wendland",Light Snow,160,Partying
+2016-02-06,0.04851827185935065,GO Bus,No one,Clear,161,Commuting
+2016-02-06,-2.9514817281406494,GO Bus,No one,Mostly Cloudy,162,Commuting
+2016-02-06,1.0485182718593506,Toronto Region Board of Trade,Annie Zhang,Overcast,163,Other-ing
+2016-02-07,2.0485182718593506,"The Merchant, A Traveller's Tavern",Annie Zhang,Partly Cloudy,164,Other-ing
+2016-02-07,2.5485182718593506,Starbucks,Annie Zhang,Clear,165,Gaming
+2016-02-07,1.0485182718593506,MH-204,No one,Overcast,166,Browsing
+2016-02-07,1.0485182718593506,Velocity Great Hall,David Moscoe,Overcast,167,Watching
+2016-02-07,-0.9514817281406494,MH-204,No one,Overcast,168,Resting
+2016-02-08,0.04851827185935065,Environment 1 (EV1),"Emma Feher,Sharva Hassamal",Overcast,169,Working
+2016-02-08,0.04851827185935065,MH-204,No one,Light Rain,170,Eating
+2016-02-08,1.0485182718593506,Velocity Great Hall,Residence,Light Rain,171,Eating
+2016-02-08,0.04851827185935065,MH-204,No one,Light Snow,172,Reading
+2016-02-08,0.04851827185935065,MH-204,No one,Light Snow,173,Reading
+2016-02-09,0.5485182718593506,MH-204,No one,Light Rain,174,Making
+2016-02-09,1.5485182718593506,Thugz Island,"Dexter Shepherd,Sharva Hassamal",Overcast,175,Resting
+2016-02-09,1.0485182718593506,MH-204,No one,Light Snow,176,Watching
+2016-02-09,0.5485182718593506,Velocity Makerspace,Alexander Mistakidis,Light Snow,177,Making
+2016-02-10,0.5485182718593506,Environment 1 (EV1),"Emma Feher,Dexter Shepherd,Sharva Hassamal",,178,Working
+2016-02-10,1.0485182718593506,Environment 1 (EV1),"Emma Feher,Dexter Shepherd,Sharva Hassamal",Overcast,179,Working
+2016-02-10,1.0485182718593506,Physical Activities Complex (PAC),No one,Light Snow,180,Exercising
+2016-02-10,-0.9514817281406494,MH-204,No one,Clear,181,Browsing
+2016-02-10,1.0485182718593506,MH-204,No one,Clear,182,Watching
+2016-02-11,0.04851827185935065,MH-204,No one,Partly Cloudy,183,Resting
+2016-02-11,0.04851827185935065,MH-204,No one,Clear,184,Showering
+2016-02-11,0.5485182718593506,MH-204,No one,Clear,185,Browsing
+2016-02-11,2.0485182718593506,Bomber,Caleb,Mostly Cloudy,186,Partying
+2016-02-11,0.04851827185935065,Greyhound,No one,Light Snow,187,Commuting
+2016-02-11,4.048518271859351,Annie's,Annie Zhang,Partly Cloudy,188,Enjoying
+2016-02-11,4.048518271859351,Annie's,Annie Zhang,Scattered Clouds,189,Gaming
+2016-02-12,1.5485182718593506,Annie's,Annie Zhang,Light Snow Showers,190,Watching
+2016-02-12,1.5485182718593506,Annie's,Annie Zhang,Light Snow Showers,191,Gaming
+2016-02-12,2.0485182718593506,Annie's,Annie Zhang,Light Snow Showers,192,Enjoying
+2016-02-12,3.0485182718593506,Annie's,Annie Zhang,Mostly Cloudy,193,Enjoying
+2016-02-12,2.0485182718593506,Annie's,Annie Zhang,Light Snow Showers,194,Making
+2016-02-12,2.5485182718593506,Annie's,Annie Zhang,Light Snow Showers,195,Eating
+2016-02-13,2.5485182718593506,Annie's,Annie Zhang,Light Snow Showers,196,Watching
+2016-02-13,-1.9514817281406494,Greyhound,No one,Light Snow Showers,197,Commuting
+2016-02-13,-0.9514817281406494,Greyhound,No one,Clear,198,Commuting
+2016-02-13,-0.9514817281406494,MH-204,No one,Clear,199,Resting
+2016-02-13,0.5485182718593506,MH-204,No one,Partly Cloudy,200,Making
+2016-02-13,1.0485182718593506,MH-204,No one,Clear,201,Watching
+2016-02-13,0.04851827185935065,MH-204,No one,Partly Cloudy,202,Reading
+2016-02-14,0.04851827185935065,MH-204,No one,Scattered Clouds,203,Browsing
+2016-02-14,-2.9514817281406494,MH-204,No one,Clear,204,Recovering
+2016-02-14,-0.45148172814064935,MH-204,No one,Clear,205,Making
+2016-02-14,1.0485182718593506,MH-204,No one,Clear,206,Watching
+2016-02-15,-0.9514817281406494,Davis Centre (DC),No one,Light Snow,207,Commuting
+2016-02-15,-0.45148172814064935,Car,No one,Light Snow,208,Commuting
+2016-02-15,1.0485182718593506,58 Chestnut,"Dad,Grandma,Grandad,Sunny Humber,Mom",Light Freezing Drizzle,209,Eating
+2016-02-15,1.0485182718593506,2 Kinnard,"Dad,Grandma Dorothy,Sunny Humber,Mom",Light Freezing Drizzle,210,Resting
+2016-02-15,1.0485182718593506,Carlisle,No one,Light Freezing Drizzle,211,Browsing
+2016-02-15,2.5485182718593506,Carlisle,"Dad,Mom,Sunny Humber",Light Snow,212,Watching
+2016-02-16,0.5485182718593506,GO Train,No one,Light Snow,213,Commuting
+2016-02-16,1.0485182718593506,Barrie,Annie Zhang,Overcast,214,Commuting
+2016-02-16,2.5485182718593506,Blue Mountain Resort,Annie Zhang,Overcast,215,Enjoying
+2016-02-16,3.5485182718593506,Blue Mountain Resort,Annie Zhang,Overcast,216,Exercising
+2016-02-16,2.5485182718593506,Blue Mountain Resort,Annie Zhang,Overcast,217,Enjoying
+2016-02-17,2.0485182718593506,Blue Mountain Resort,Annie Zhang,Light Snow,218,Resting
+2016-02-17,2.0485182718593506,Blue Mountain Resort,Annie Zhang,Light Snow,219,Exercising
+2016-02-17,2.0485182718593506,Blue Mountain Resort,Annie Zhang,Overcast,220,Eating
+2016-02-17,2.5485182718593506,Blue Mountain Resort,Annie Zhang,Light Snow,221,Resting
+2016-02-18,1.0485182718593506,Blue Mountain Resort,Annie Zhang,,222,Other-ing
+2016-02-18,2.5485182718593506,Blue Mountain Resort,Annie Zhang,Clear,223,Resting
+2016-02-18,2.5485182718593506,Bus,Annie Zhang,Clear,224,Listening
+2016-02-18,1.5485182718593506,Carlisle,No one,Mostly Cloudy,225,Gaming
+2016-02-19,1.0485182718593506,MH-204,No one,Overcast,226,Making
+2016-02-19,-0.9514817281406494,MH-204,No one,Overcast,227,Eating
+2016-02-19,-0.9514817281406494,MH-204,No one,Overcast,228,Browsing
+2016-02-19,-1.9514817281406494,MH-204,No one,Overcast,229,Resting
+2016-02-20,-0.45148172814064935,MH-204,No one,Clear,230,Browsing
+2016-02-20,0.04851827185935065,MH-204,No one,Overcast,231,Making
+2016-02-20,1.5485182718593506,"Waterloo, Ontario",No one,Scattered Clouds,232,Exercising
+2016-02-21,-0.45148172814064935,MH-204,No one,Overcast,233,Resting
+2016-02-21,0.04851827185935065,MH-204,No one,Overcast,234,Watching
+2016-02-21,0.5485182718593506,MH-204,No one,Overcast,235,Watching
+2016-02-21,2.0485182718593506,Galaxy,Sharva Hassamal,Overcast,236,Watching
+2016-02-22,1.0485182718593506,Velocity Makerspace,"Allen Gao,Matt Sourgoutsidis,Alexander Mistakidis,Matt Yang",Mostly Cloudy,237,Making
+2016-02-22,1.0485182718593506,Environment 1 (EV1),"Emma Feher,Dexter Shepherd,Sharva Hassamal",Mostly Cloudy,238,Working
+2016-02-22,1.0485182718593506,MH-204,No one,Overcast,239,Making
+2016-02-22,1.0485182718593506,MH-204,No one,Clear,240,Working
+2016-02-23,1.0485182718593506,MH-204,No one,Mostly Cloudy,241,Resting
+2016-02-23,0.5485182718593506,MH-204,No one,Clear,242,Resting
+2016-02-23,0.5485182718593506,MH-204,No one,Mostly Cloudy,243,Working
+2016-02-23,0.04851827185935065,Quantum Nano Centre (QNC),"Sharva Hassamal,Tiff,Dexter Shepherd,Sun",Partly Cloudy,244,Working
+2016-02-23,1.0485182718593506,MH-204,No one,Clear,245,Watching
+2016-02-23,1.0485182718593506,MH-204,No one,Clear,246,Making
+2016-02-23,0.04851827185935065,MH-204,No one,Partly Cloudy,247,Browsing
+2016-02-24,-0.45148172814064935,MH-204,No one,Light Snow,248,Resting
+2016-02-24,0.04851827185935065,MH-204,No one,Light Snow,249,Applying
+2016-02-24,3.0485182718593506,Snakes & Lattes,Phoebe Stephens,Overcast,250,Gaming
+2016-02-24,3.0485182718593506,Harvest Kitchen,"Ryan DeCaire,Evelyn Pyper,Trevor Smith,Ellen Hyslop",Light Rain,251,Eating
+2016-02-24,2.0485182718593506,Ellen's,Ellen Hyslop,Overcast,252,Resting
+2016-02-25,-0.9514817281406494,YYZ,No one,Light Snow,253,Commuting
+2016-02-25,-0.45148172814064935,Airplane,No one,,254,Commuting
+2016-02-25,0.04851827185935065,Seattle,Tyler Maynard,,255,Commuting
+2016-02-25,2.0485182718593506,Seattle,No one,,256,Exercising
+2016-02-25,3.0485182718593506,Seattle,"Chris,Al",,257,Partying
+2016-02-25,2.0485182718593506,Seattle,Tyler Maynard,Clear,258,Partying
+2016-02-25,1.0485182718593506,Seattle,No one,Clear,259,Partying
+2016-02-26,0.5485182718593506,Seattle,No one,Mostly Cloudy,260,Resting
+2016-02-26,2.0485182718593506,Amazon,No one,,261,Applying
+2016-02-26,1.0485182718593506,Amazon,No one,Mostly Cloudy,262,Applying
+2016-02-26,1.5485182718593506,Amazon,Team 3,Mostly Cloudy,263,Applying
+2016-02-26,2.0485182718593506,Seattle,No one,,264,Showering
+2016-02-26,2.5485182718593506,Seattle,"Aiden,Kyle",Rain,265,Eating
+2016-02-27,-0.9514817281406494,Seattle,No one,Fog,266,Resting
+2016-02-27,-0.9514817281406494,Minnesota,No one,,267,Commuting
+2016-02-27,-0.45148172814064935,Minnesota,No one,,268,Commuting
+2016-02-27,1.0485182718593506,Mill St Brew Pub @ UPExpress,No one,Overcast,269,Commuting
+2016-02-27,1.0485182718593506,Via Rail Train,No one,Overcast,270,Commuting
+2016-02-27,2.5485182718593506,Annie's,"Shannon,Nadia,Sophie,Annie Zhang",Mostly Cloudy,271,Partying
+2016-02-28,1.5485182718593506,Annie's,Annie Zhang,Overcast,272,Recovering
+2016-02-28,2.0485182718593506,Annie's,Annie Zhang,Overcast,273,Resting
+2016-02-28,1.5485182718593506,Burrito Boyz London,Annie Zhang,Overcast,274,Eating
+2016-02-28,2.0485182718593506,Annie's,Annie Zhang,Mostly Cloudy,275,Enjoying
+2016-02-28,1.0485182718593506,Bus,No one,Overcast,276,Listening
+2016-02-28,1.0485182718593506,MH-204,No one,Overcast,277,Making
+2016-02-29,0.04851827185935065,MH-204,No one,Light Snow,278,Resting
+2016-02-29,2.0485182718593506,Velocity Great Hall,Mike,Light Snow,279,Making
+2016-02-29,2.0485182718593506,Bomber,"Dan Schissler,Dexter Shepherd,Sharva Hassamal",Light Snow,280,Partying
+2016-03-01,-0.45148172814064935,MH-204,No one,Overcast,281,Resting
+2016-03-01,-0.45148172814064935,MH-204,No one,Overcast,282,Working
+2016-03-01,0.04851827185935065,MH-204,No one,Light Snow,283,Working
+2016-03-01,-0.45148172814064935,J.R. Coutts Engineering Lecture Hall (RCH),Steve Collins,Light Snow,284,Working
+2016-03-01,-0.45148172814064935,MH-204,No one,Light Snow,285,Eating
+2016-03-01,0.5485182718593506,MH-204,No one,Light Snow,286,Watching
+2016-03-01,0.5485182718593506,MH-204,No one,Light Snow,287,Watching
+2016-03-02,0.5485182718593506,Environment 1 (EV1),"Emma Feher,Dexter Shepherd,Sharva Hassamal",Clear,288,Working
+2016-03-02,2.0485182718593506,MH-204,No one,Scattered Clouds,289,Working
+2016-03-02,1.0485182718593506,MH-204,No one,,290,Making
+2016-03-02,1.0485182718593506,MH-204,No one,Overcast,291,Watching
+2016-03-03,-0.9514817281406494,MH-204,No one,Light Snow,292,Applying
+2016-03-03,-0.45148172814064935,MH-204,No one,Overcast,293,Resting
+2016-03-03,0.04851827185935065,Environment 3 (EV3),No one,Overcast,294,Working
+2016-03-03,1.5485182718593506,Uptown Waterloo,No one,Overcast,295,Shopping
+2016-03-03,0.5485182718593506,Bus,No one,Mostly Cloudy,296,Commuting
+2016-03-03,1.0485182718593506,MH-204,No one,Overcast,297,Making
+2016-03-03,0.04851827185935065,MH-204,No one,Light Snow,298,Watching
+2016-03-03,0.5485182718593506,MH-204,No one,Light Snow,299,Eating
+2016-03-04,1.0485182718593506,MH-204,No one,Light Snow,300,Resting
+2016-03-04,0.5485182718593506,MH-204,No one,Overcast,301,Resting
+2016-03-04,0.5485182718593506,MH-204,No one,Clear,302,Making
+2016-03-04,2.0485182718593506,Thugz Island,"Rizwan,Sasha Corrent,Alex Manore,Sara Shams,Isaac,Dan Schissler,Mark Williamson,Adam Wendland,Lana",Mostly Cloudy,303,Partying
+2016-03-05,2.0485182718593506,Waterloo Park,No one,Mostly Cloudy,304,Partying
+2016-03-05,-0.9514817281406494,MH-204,No one,Overcast,305,Recovering
+2016-03-05,1.5485182718593506,MH-204,Annie Zhang,Light Snow,306,Watching
+2016-03-05,2.5485182718593506,MH-204,Annie Zhang,Overcast,307,Enjoying
+2016-03-05,1.5485182718593506,MH-204,Annie Zhang,Light Snow,308,Watching
+2016-03-05,1.5485182718593506,MH-204,Annie Zhang,Overcast,309,Enjoying
+2016-03-06,1.5485182718593506,MH-204,Annie Zhang,Clear,310,Resting
+2016-03-06,1.0485182718593506,Quantum Nano Centre (QNC),Annie Zhang,Partly Cloudy,311,Working
+2016-03-06,1.5485182718593506,My-Thai,Annie Zhang,Scattered Clouds,312,Eating
+2016-03-06,1.5485182718593506,MH-204,No one,Mostly Cloudy,313,Watching
+2016-03-06,1.0485182718593506,MH-204,No one,Mostly Cloudy,314,Watching
+2016-03-06,1.0485182718593506,MH-204,No one,Overcast,315,Making
