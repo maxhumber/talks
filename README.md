@@ -16,6 +16,6 @@
 | Regression Gone Wrong                                     | [ODSC Boston](https://odsc.com/boston/)             | 2019-05-02 |
 | How to Read Code                                          | [EuroPython](https://ep2019.europython.eu/)         | 2019-07-12 |
 | How to Build a Recommendation Engine that's not MovieLens | [ODSC West](https://odsc.com/california/)           | 2019-10-31 |
-| Gazpacho ⚡️                                                | [Pycon Canada](https://2019.pycon.ca)               | 2019-11-17 |
+| gazpacho ⚡️                                                | [Pycon Canada](https://2019.pycon.ca)               | 2019-11-17 |
 |                                                           |                                                     |            |
 
