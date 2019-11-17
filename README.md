@@ -15,7 +15,7 @@
 | March Madness                                             | [Lambda Brownbag](https://lambdaschool.com/)        | 2018-03-28 |
 | Regression Gone Wrong                                     | [ODSC Boston](https://odsc.com/boston/)             | 2019-05-02 |
 | How to Read Code                                          | [EuroPython](https://ep2019.europython.eu/)         | 2019-07-12 |
-| How to Build a Recommendation Engine that's not MovieLens | [ODSC West](https://odsc.com/california/)           | 2019-10-31 |
-| gazpacho ⚡️                                                | [Pycon Canada](https://2019.pycon.ca)               | 2019-11-17 |
+| How to Build a Recommendation Engine                      | [ODSC West](https://odsc.com/california/)           | 2019-10-31 |
+| gazpacho (Lightning Talk)                                 | [Pycon Canada](https://2019.pycon.ca)               | 2019-11-17 |
 |                                                           |                                                     |            |
 
