@@ -1,0 +1,349 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5048C3EF262098BF0077944D /* ImBoredApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048C3EE262098BF0077944D /* ImBoredApp.swift */; };
+		5048C3F1262098BF0077944D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048C3F0262098BF0077944D /* ContentView.swift */; };
+		5048C3F3262098C10077944D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5048C3F2262098C10077944D /* Assets.xcassets */; };
+		5048C3F6262098C10077944D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5048C3F5262098C10077944D /* Preview Assets.xcassets */; };
+		5048C3FF262098FB0077944D /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048C3FE262098FB0077944D /* Game.swift */; };
+		5048C4022620990E0077944D /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5048C4012620990E0077944D /* ViewModel.swift */; };
+		5048C405262099AA0077944D /* BoardGameRegressor1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 5048C404262099AA0077944D /* BoardGameRegressor1.mlmodel */; };
+		5048C40926209A730077944D /* BoardGameRegressor2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 5048C40826209A730077944D /* BoardGameRegressor2.mlmodel */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5048C3EB262098BF0077944D /* ImBored.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImBored.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5048C3EE262098BF0077944D /* ImBoredApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImBoredApp.swift; sourceTree = "<group>"; };
+		5048C3F0262098BF0077944D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		5048C3F2262098C10077944D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5048C3F5262098C10077944D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5048C3F7262098C10077944D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5048C3FE262098FB0077944D /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		5048C4012620990E0077944D /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		5048C404262099AA0077944D /* BoardGameRegressor1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = BoardGameRegressor1.mlmodel; path = ../../models/BoardGameRegressor1.mlmodel; sourceTree = "<group>"; };
+		5048C40826209A730077944D /* BoardGameRegressor2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = BoardGameRegressor2.mlmodel; path = ../../models/BoardGameRegressor2.mlmodel; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5048C3E8262098BF0077944D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5048C3E2262098BF0077944D = {
+			isa = PBXGroup;
+			children = (
+				5048C3ED262098BF0077944D /* ImBored */,
+				5048C3EC262098BF0077944D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5048C3EC262098BF0077944D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5048C3EB262098BF0077944D /* ImBored.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5048C3ED262098BF0077944D /* ImBored */ = {
+			isa = PBXGroup;
+			children = (
+				5048C3EE262098BF0077944D /* ImBoredApp.swift */,
+				5048C3FE262098FB0077944D /* Game.swift */,
+				5048C4012620990E0077944D /* ViewModel.swift */,
+				5048C3F0262098BF0077944D /* ContentView.swift */,
+				5048C404262099AA0077944D /* BoardGameRegressor1.mlmodel */,
+				5048C40826209A730077944D /* BoardGameRegressor2.mlmodel */,
+				5048C3F2262098C10077944D /* Assets.xcassets */,
+				5048C3F7262098C10077944D /* Info.plist */,
+				5048C3F4262098C10077944D /* Preview Content */,
+			);
+			path = ImBored;
+			sourceTree = "<group>";
+		};
+		5048C3F4262098C10077944D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				5048C3F5262098C10077944D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5048C3EA262098BF0077944D /* ImBored */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5048C3FA262098C10077944D /* Build configuration list for PBXNativeTarget "ImBored" */;
+			buildPhases = (
+				5048C3E7262098BF0077944D /* Sources */,
+				5048C3E8262098BF0077944D /* Frameworks */,
+				5048C3E9262098BF0077944D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ImBored;
+			productName = ImBored;
+			productReference = 5048C3EB262098BF0077944D /* ImBored.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5048C3E3262098BF0077944D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					5048C3EA262098BF0077944D = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = 5048C3E6262098BF0077944D /* Build configuration list for PBXProject "ImBored" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5048C3E2262098BF0077944D;
+			productRefGroup = 5048C3EC262098BF0077944D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5048C3EA262098BF0077944D /* ImBored */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5048C3E9262098BF0077944D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5048C3F6262098C10077944D /* Preview Assets.xcassets in Resources */,
+				5048C3F3262098C10077944D /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5048C3E7262098BF0077944D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5048C3F1262098BF0077944D /* ContentView.swift in Sources */,
+				5048C40926209A730077944D /* BoardGameRegressor2.mlmodel in Sources */,
+				5048C3FF262098FB0077944D /* Game.swift in Sources */,
+				5048C4022620990E0077944D /* ViewModel.swift in Sources */,
+				5048C3EF262098BF0077944D /* ImBoredApp.swift in Sources */,
+				5048C405262099AA0077944D /* BoardGameRegressor1.mlmodel in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5048C3F8262098C10077944D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5048C3F9262098C10077944D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5048C3FB262098C10077944D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"ImBored/Preview Content\"";
+				DEVELOPMENT_TEAM = 65UTX76JJY;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = ImBored/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ltd.bracket.dev.ImBored;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5048C3FC262098C10077944D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"ImBored/Preview Content\"";
+				DEVELOPMENT_TEAM = 65UTX76JJY;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = ImBored/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = ltd.bracket.dev.ImBored;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5048C3E6262098BF0077944D /* Build configuration list for PBXProject "ImBored" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5048C3F8262098C10077944D /* Debug */,
+				5048C3F9262098C10077944D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5048C3FA262098C10077944D /* Build configuration list for PBXNativeTarget "ImBored" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5048C3FB262098C10077944D /* Debug */,
+				5048C3FC262098C10077944D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5048C3E3262098BF0077944D /* Project object */;
+}

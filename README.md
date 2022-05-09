@@ -19,4 +19,10 @@
 | gazpacho Lightning Talk                | [Pycon Canada](https://2019.pycon.ca)               | 2019-11-17 |
 | Getting Started with Web Scraping      | [Python Pizza](https://remote.python.pizza/)        | 2020-04-25 |
 | gif Lightning Talk                     | [PyData Festival](https://amsterdam.pydata.org/)    | 2020-06-19 |
+| Animating Data                         | ODSC Workshop                                       | 2020-10-22 |
+| Hickory Dickory Dock                   | Geekle Python                                       | 2020-11-19 |
+| Punch Up Your Pitch                    | Ellehacks Hackathon                                 | 2021-01-17 |
+| SUIPYER (SwiftUI + Python)             | Geekle ML/AI                                        | 2021-04-09 |
+| PUNK I: Scraping                       | GA Workshop                                         | 2021-05-17 |
+| PUNK II: Modelling                     | GA Workshop                                         | 2021-05-25 |
 |                                        |                                                     |            |
